@@ -1,0 +1,12 @@
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Form1.resources
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb
+C:\Users\JONAS\Desktop\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+C:\Users\JONAS\Desktop\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+C:\Users\JONAS\Desktop\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb
